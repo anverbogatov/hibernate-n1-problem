@@ -17,7 +17,5 @@ Things like "repository in controller" or "data transformation in dto" were impl
 4) Use `GET` call from the file to reproduce the problem
 
 ### Description
-
-```
-//todo: will add a link here later
-```
+Full description of N+1 problem and the way how to avoid it can be found here:
+https://www.anverbogatov.com/posts/hibernate-n1-problem/
